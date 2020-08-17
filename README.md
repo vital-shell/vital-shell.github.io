@@ -1,1 +1,1 @@
-# vital-shell.github.io
+# vitalshells.github.io
